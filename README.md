@@ -10,7 +10,7 @@ The implementation should utilizes Java (Spring Boot), be backed by a PostgreSQL
 - **Programming Language**: *Java (Spring Boot)*
 - **Databases**: *PostgreSQL and MySQL*
 - **Containerization**: *Docker*
-- **Server**: *Local Server for Java*
+- **Server**: *Local Server for Java (Apache Tomcat)*
 - **Testing**: *Postman*
 
 
